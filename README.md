@@ -1,16 +1,29 @@
-### Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyAverin&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact)
 
-<!--
-**SergeyAverin/SergeyAverin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me 📝
+- 👋 Hi, I’m @SergeyAverin
+- 👀 I’m interested web development and computer since
+- 📫 How to reach me 
+  * Email: sergey.averin.003@gmail.com
+  * Telegram: https://t.me/SergeyAverin
+  * Discord: PrettyStreet#5088
 
-Here are some ideas to get you started:
+********* 
+# Skills 💪
+### 🖼️ Frontend:
+* HTML, CSS, JS | TS | Bootstrap | SASS, SCSS | PUG | Gulp | Webpack | React, Redux | Next.js
+### 🔌 Backend:
+  * Python + Django | Node + Express
+  * Databases: PostgreSQL | MySQL | MongoDB | Redis
+  * Linux | Nginx | RabbitMQ | Docker | Elasticsearch
+### 💩 Other skills:
+* Figma | Adobe Photoshop
+  
+<!---
+PrettyStreett/PrettyStreett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+********* 
+
+![](https://komarev.com/ghpvc/?username=PrettyStreett)
